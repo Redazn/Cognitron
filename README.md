@@ -1,8 +1,6 @@
-# Cognitron
+# Cognitron Beta
 
-# PrabowoAGI Framework
-
-Framework general-purpose untuk AGI, terinspirasi dari arsitektur PrabowoAGI.
+Framework general-purpose untuk machine berbasis cognitive.
 
 ## Instalasi
 ```bash
